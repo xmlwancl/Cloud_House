@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_alarm_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="当前时间"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/ll_time_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_alarm_title">
+
+        <ImageView
+            android:id="@+id/iv_time1"
+            android:layout_width="30dp"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:id="@+id/iv_time2"
+            android:layout_width="30dp"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="20dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/icon_colon" />
+
+        <ImageView
+            android:id="@+id/iv_time3"
+            android:layout_width="30dp"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:id="@+id/iv_time4"
+            android:layout_width="30dp"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="20dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/icon_colon" />
+
+        <ImageView
+            android:id="@+id/iv_time5"
+            android:layout_width="30dp"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:id="@+id/iv_time6"
+            android:layout_width="30dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_alarm_start_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:text="Time"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ll_time_container" />
+
+    <TextView
+        android:id="@+id/tv_alarm_no_clock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:text="暂无提醒计划"
+        android:textColor="@color/turntable_result_notwining_color"
+        android:textSize="14sp"
+        android:visibility="gone"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_alarm_start_time" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_alarm_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_alarm_start_time" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/test1"
+        android:title="TestActivity"/>
+    <item android:id="@+id/test2"
+        android:title="ClipActivity"/>
+    <item android:id="@+id/test3"
+        android:title="TestActivity"/>
+    <item android:id="@+id/test4"
+        android:title="ScaleImageActivity"/>
+    <item android:id="@+id/test5"
+        android:title="UtilsActivity"/>
+    <item android:id="@+id/test6"
+        android:title="ScrollActivity"/>
+    <item android:id="@+id/test7"
+        android:title="WaveViewActivity"/>
+    <item android:id="@+id/test8"
+        android:title="ScratchCardActivity"/>
+    <item android:id="@+id/test9"
+        android:title="TelescopeActivity"/>
+    <item android:id="@+id/test10"
+        android:title="RoundFrameActivity"/>
+    <item android:id="@+id/test11"
+        android:title="HollowCircleActivity"/>
+</menu>

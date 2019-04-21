@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task Small Tool</string>
+    <string name="label_listener_service">通知服务</string>
+    <string name="label_timing_service">定时服务</string>
+    <string name="warn_for_app">此应用只作个人娱乐使用，严禁作为商用，App作者保留相关法律权利。</string>
+</resources>

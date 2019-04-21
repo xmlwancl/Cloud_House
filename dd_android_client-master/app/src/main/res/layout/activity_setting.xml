@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_back"
+    android:orientation="vertical">
+
+    <LinearLayout style="@style/Setting_LinearLayout_Style"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="14sp"
+            android:textColor="#282828"
+            android:text="自动添加系统闹钟" />
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/switch_add_alarm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View style="@style/Divider_Line" />
+
+    <LinearLayout
+        android:id="@+id/ll_about_dd"
+        style="@style/Setting_LinearLayout_Style"
+        android:background="@drawable/setting_item_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="14sp"
+            android:textColor="#282828"
+            android:text="关于钉钉助手" />
+    </LinearLayout>
+</LinearLayout>

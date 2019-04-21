@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <com.tool.ui.view.AutoRoateTextView
+            android:id="@+id/textview1"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            app:text_size="14sp"
+            app:text_color="#3d3d3d"
+            app:gravity="left|center_vertical" />
+
+        <com.tool.ui.view.AutoRoateTextView
+            android:id="@+id/textview2"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:text_size="14sp"
+            app:text_color="#3d3d3d"
+            app:gravity="left|center_vertical" />
+
+        <com.tool.ui.view.AutoRoateTextView
+            android:id="@+id/textview3"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:text_size="14sp"
+            app:text_color="#3d3d3d"
+            app:gravity="left|center_vertical" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#ff3548"
+        android:shadowRadius="3"
+        android:shadowColor="#ff8651"
+        android:shadowDx="15"
+        android:shadowDy="15"
+        android:text="这是有阴影的字" />
+</RelativeLayout>

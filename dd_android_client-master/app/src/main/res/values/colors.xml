@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow">#ffff01</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue_mark">#2579f2</color>
+    <color name="red">#ffff0000</color>
+    <color name="red_bar">#f15353</color>
+    <color name="red_e6">#e63528</color>
+    <color name="red_share">#f15353</color>
+    <color name="red_price">#E71C34</color>
+    <color name="red_set">#f94b4a</color>
+    <color name="grey">#666666</color>
+    <color name="grey3">#333333</color>
+    <color name="grey9">#999999</color>
+    <color name="grey4">#d4d4d4</color>
+    <color name="grey_setting_right_note">#999999</color>
+    <color name="greys">#e6e6e6</color>
+    <color name="grey_line">#b4b4b4</color>
+    <color name="grey_back">#f3f3f3</color>
+    <color name="black_order">#555555</color>
+    <color name="bg_grey">#fff0f0f0</color>
+    <color name="grey_bg">#f2f2f2</color>
+    <color name="grey_bg3">#959595</color>
+    <color name="grey_bg4">#969696</color>
+    <color name="grey_bg5">#dddddd</color>
+    <color name="grey_bg7">#f1f1f1</color>
+    <color name="text_black">#4e4c4a</color>
+    <color name="text_black_right">#333333</color>
+    <color name="text_grey">#7d7d7d</color>
+    <color name="navi_bar_bg">#f2f2f2</color>
+    <color name="orange_bar_continue_bg">#ffb220</color>
+    <color name="blue_bar_continue_bg">#20aeff</color>
+    <color name="blue_bar">#50bfff</color>
+    <color name="green">#87b867</color>
+    <color name="orange_bar">#ffbf47</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="transparent_background_30">#4d000000</color>
+    <color name="transparent_background_20">#33000000</color>
+    <color name="text_right_black">#555555</color>
+    <color name="layout_black">#575757</color>
+    <color name="text_right_grey">#969696</color>
+    <color name="black_mark">#e8e8e8</color>
+    <color name="line_gray">#e0e0e0</color>
+    <color name="text_gray2">#888888</color>
+    <color name="text_gray84">#848484</color>
+    <color name="text_gray3">#a6a6a6</color>
+    <color name="image_border">#efefef</color>
+    <color name="green_blue">#21daee</color>
+    <color name="grey_but_color">#bebebe</color>
+    <color name="grey_address_color">#b1b1b1</color>
+    <color name="grey_but_select_color">#efcece</color>
+    <color name="grey_new_user_color">#fff0f0f0</color>
+    <color name="view_grey">#f9ccc9</color>
+    <color name="white_">#ee8681</color>
+    <color name="address_blue">#3a6eaa</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_tra">#00000000</color>
+    <color name="gray">#808080</color>
+    <color name="bluesky">#2579f3</color>
+    <color name="splash_bg">#F7F7F7</color>
+    <color name="daily_orange">#ff9900</color>
+    <color name="detail_toolbar_text_night_press_color">#404040</color>
+
+
+    <!-- #E6E8FA -->
+    <color name="btn_red_normal">#E93F33</color>
+    <color name="color_gradiant">#00000000</color>
+    <color name="edit_text_hint">#b7b7b7</color>
+
+    <!-- tencent ui design -->
+    <color name="tab_text_color_normal">#555555</color>
+    <color name="about_text_color">#576b95</color>
+    <color name="tab_text_color_focus">#e63528</color>
+    <color name="income_title_bg">#e63528</color>
+    <color name="income_sub_item_bg">#f2f2f2</color>
+    <color name="invite_title_text_color">#4c4c4c</color>
+    <color name="bottom_bar_bg">#eceaea</color>
+    <color name="main_red">#ff3548</color>
+    <color name="main_button">#e63528</color>
+    <color name="main_button_pressed">#ea1328</color>
+    <color name="main_button_press">#ea1328</color>
+    <color name="main_grey_button">#b3b3b3</color>
+    <color name="main_grey_button_pressed">#a1a1a1</color>
+    <color name="grey_btn">#f2f2f2</color>
+    <color name="grey_btn_apk">#e5e3e3</color>
+    <color name="grey_btn_pressed">#e0e0e0</color>
+    <color name="grey_btn_pressed_apk">#d1cfcf</color>
+    <color name="cia_time">#e63528</color>
+    <color name="cia_xieyi">#3a6eaa</color>
+    <color name="bule_invention">#6699CC</color>
+    <color name="blue_task_share">#3e92f9</color>
+
+    <!-- tab -->
+    <color name="address_list_text_color">#4c4c4c</color>
+    <color name="alipay_text_enable">#959595</color>
+    <color name="translucent">#88000000</color>
+    <color name="trans">#00000000</color>
+    <color name="color_hint">#e1e1e1</color>
+
+    <!-- market -->
+    <color name="merchandise_list_background_selected">#f2f2f2</color>
+    <color name="merchandise_list_divider">#e1e1e1</color>
+    <color name="merchandise_list_sub_text">#8b8b8b</color>
+    <color name="merchandise_list_sum">#e63528</color>
+    <color name="color_red">#e63528</color>
+    <color name="light_colour_red_">#f15353</color>
+    <color name="mark_green">#4bb281</color>
+    <color name="merchandise_title_bule">#4B73B3</color>
+
+    <!-- ordered -->
+    <color name="order_list_line">#e2e2e2</color>
+    <color name="order_edit_hint">#dadada</color>
+
+    <!-- sign -->
+    <color name="sign_list_sub_text">#b5b5b5</color>
+    <color name="sign_list_already_download">#ff9000</color>
+    <color name="sign_list_credit_grey">#cccccc</color>
+
+    <!-- turntable result color -->
+    <color name="draw_result_high_light_color">#fc4343</color>
+    <color name="turntable_result_wining_color">#fc6363</color>
+    <color name="turntable_result_notwining_color">#3da3af</color>
+
+    <!-- task center -->
+    <color name="task_list_item_selected_color">#fdf6ea</color>
+    <color name="task_list_item_value">#e63528</color>
+
+    <!-- Auction  -->
+    <color name="auction_commodity_text_color_red">#f15353</color>
+    <color name="auction_commodity_text_color_black">#555555</color>
+    <color name="auction_item_title_textcolor">#1c1c1c</color>
+    <color name="auction_item_subtitle_textcolor">#ffb220</color>
+    <color name="auction_commodity_state_yellow">#ffb220</color>
+    <color name="auction_commodity_state_red">#ff0000</color>
+    <color name="auction_commodity_state_green">#1dcc7d</color>
+    <color name="auction_commodity_progress_bar_bg">#dcdcdc</color>
+    <color name="auction_commodity_timer_bg">#fff5e1</color>
+
+    <!-- uploadfile -->
+    <color name="upload_white_bg">#f5f5f5</color>
+    <color name="upload_comment_text_color">#4c4c4c</color>
+
+    <!-- first page -->
+    <color name="first_page_item_pressed_color">#f2f2f2</color>
+    <color name="first_page_item_divider_color">#f2f2f2</color>
+
+    <!-- browser -->
+    <color name="web_app_browser_navigation_bg">#f7f7f7</color>
+
+    <!--Income plus-->
+    <color name="incomve_list_divider_color">#dfdfdf</color>
+    <color name="income_bottom_background">#f9f8f8</color>
+    <color name="reward_plus_item_action_tv_color">#c2c2c2</color>
+
+    <!-- super market -->
+    <color name="super_market_background">#f9f8f8</color>
+
+    <color name="lock_screen_window_bg_color">#ffffff</color>
+
+    <!--setting lock screen-->
+    <color name="common_text_red">#e63528</color>
+
+    <!-- rapid mode setting -->
+    <color name="disable_text_color">#D9D9D9</color>
+
+    <!--marker searchview-->
+    <color name="market_search_tagview_border">#a7a7a7</color>
+    <color name="market_search_tag_title_textcolor">#999999</color>
+
+    <!-- announcement -->
+    <color name="announcement_item_time_bg_color">#d3d3d3</color>
+    <color name="announcement_item_type_color_red">@color/main_red</color>
+    <color name="announcement_item_type_color_yellow">#fac96a</color>
+    <color name="announcement_item_type_color_green">#a9d788</color>
+    <color name="announcement_item_type_color_blue">#7dbdfd</color>
+    <color name="announcement_menu_divider_color">#9b9b9b</color>
+
+    <!-- common color -->
+    <color name="common_red_btn_color_normal">@color/main_red</color>
+    <color name="common_red_btn_color_pressed">#ea1328</color>
+    <color name="common_red_btn_text_color">@color/white</color>
+    <color name="common_main_title_text_color">#404040</color>
+    <color name="common_dialog_title_text_color">#404040</color>
+    <color name="common_dialog_content_text_color">#666666</color>
+    <color name="common_sub_title_text_color">#9a9a9a</color>
+    <color name="common_edit_text_hint">#d2d2d2</color>
+    <color name="common_dialog_button_pressed">#f3f3f3</color>
+    <color name="common_dialog_button_normal">#ffffff</color>
+    <color name="common_divider_color">#e6e6e6</color>
+
+    <!--for recommend friend-->
+    <color name="year_title_color">#929292</color>
+    <color name="time_component_color">#d2d2d2</color>
+    <color name="reward_full_color">#e63528</color>
+    <color name="master_text_color">#d2d2d2</color>
+    <color name="ali_background_color">#f0f0f0</color>
+
+    <!--feedback color-->
+    <color name="feedback_color">#d02076f2</color>
+
+    <!-- ViewPager background color -->
+    <color name="web_app_background_color">#b22b2b2b</color>
+    <color name="web_app_dialog_background_color">#2b2b2b</color>
+
+    <!--for webapp recommend-->
+    <color name="web_app_blue">#2579f2</color>
+
+    <color name="mark_layout_black">#222222</color>
+    <color name="mark_layout_white">#f8f8f8</color>
+    <color name="mark_text_black">#404040</color>
+
+    <color name="black_alpha30">#4c000000</color>
+
+    <!-- web app background color -->
+
+    <color name="cash_fragment_select_background">#fff5f5</color>
+
+    <color name="scholarship_title_color">#f75745</color>
+    <color name="scholarship_subtitle_color">#ff7e16</color>
+    <color name="scholarship_rank_gold_bg">#66FFD700</color>
+    <color name="scholarship_rank_silver_bg">#99C0C0C0</color>
+    <color name="scholarship_rank_third_bg">#66FF8C00</color>
+    <color name="scholarship_rank_others_bg">#E6E6E6FA</color>
+
+    <!--souhu-->
+    <color name="item_flow_black_src">#999999</color>
+    <color name="taobao_market_item_color">#ff6055</color>
+    <color name="taobao_market_button_background_color">#ededed</color>
+    <color name="taobao_market_button_text_color">#bcbcbc</color>
+    <color name="taobao_market_integral_text_color">#f5572c</color>
+
+    <!--pay-->
+    <color name="pay_title_color">#ff7100</color>
+    <color name="grey_bb">#bbbbbb</color>
+
+    <!--for recommend product in daily life fragment-->
+    <color name="product_name_color">#333333</color>
+    <color name="price_color">#ff564a</color>
+    <color name="product_feature_color">#a4a4a4</color>
+
+    <!-- ping an flow -->
+
+    <color name="reading_primary_color">#2b81f8</color>
+
+    <color name="barrage_progress">#8c5a1a</color>
+
+    <color name="grey_line_color">#dedede</color>
+    <color name="attendance_text_color">#ffe300</color>
+    <color name="attendance_text_today">#ff003f</color>
+    <color name="task_info_text_color">#989898</color>
+    <color name="task_tip_text_color">#282828</color>
+    <color name="task_share_btn_color">#ff3548</color>
+    <color name="task_center_pink">#ffeef0</color>
+    <color name="task_desc_text_color">#656565</color>
+    <color name="task_status_line_color">#bbbbbb</color>
+    <color name="completed_yellow">#fbaf34</color>
+    <color name="deep_blue">#30344d</color>
+    <color name="main_red_light">#ec494f</color>
+    <color name="stroke_line_grey">#dbdbdb</color>
+    <color name="grey_f9">#f9f9f9</color>
+    <color name="head_portrait_border_color">#43ffffff</color>
+
+    <color name="step_progress_bg">#E6E6E6</color>
+    <color name="step_progress_start">#FFA869</color>
+    <color name="step_progress_end">#FF3D44</color>
+    <color name="step_msg_color">#969696</color>
+</resources>
